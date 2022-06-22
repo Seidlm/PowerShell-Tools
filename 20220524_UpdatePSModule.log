@@ -1,0 +1,283 @@
+20220524_050948: <INFO> START Script
+20220524_050957: <INFO> START Script
+20220524_050957: <INFO> Get all installed Modules
+20220524_051003: <INFO> Limit Module to online Repo
+20220524_051003: <INFO> Work with Module: PackageManagement
+20220524_051003: <INFO> Get Online Repo
+20220524_051008: <INFO> Compare Online and local Version
+20220524_051008: <INFO> Installed Version: 1.4.7
+20220524_051008: <INFO> Online Version: 1.4.7
+20220524_051008: <INFO> Installed Version is the latest
+20220524_051008: <INFO> Work with Module: ImportExcel
+20220524_051008: <INFO> Get Online Repo
+20220524_051010: <INFO> Compare Online and local Version
+20220524_051010: <INFO> Installed Version: 7.5.0
+20220524_051010: <INFO> Online Version: 7.5.2
+20220524_051010: <INFO> Online Version is newer
+20220524_051010: <INFO> There is a Patch Update
+20220524_051010: <INFO> Update Majority is: Patch
+20220524_051010: <INFO> Online Version is newer and Update Majority is configured to update
+20220524_051010: <INFO> Error during PS Module Update, Error: A parameter cannot be found that matches parameter name 'AcceptLicense'. The specified module 'C:\Program Files\DesiredStateConfiguration\1.0.0.0\Modules\PSDesiredStateConfiguration\PSDesiredStateConfiguration.psd1' was not loaded because no valid module file was found in any module directory.
+20220524_051010: <INFO> Work with Module: ImportExcel
+20220524_051010: <INFO> Get Online Repo
+20220524_051012: <INFO> Compare Online and local Version
+20220524_051012: <INFO> Installed Version: 7.4.1
+20220524_051012: <INFO> Online Version: 7.5.2
+20220524_051012: <INFO> Online Version is newer
+20220524_051012: <INFO> There is a Minor Update
+20220524_051012: <INFO> Work with Module: PSTeams
+20220524_051012: <INFO> Get Online Repo
+20220524_051013: <INFO> Compare Online and local Version
+20220524_051013: <INFO> Installed Version: 2.1.1
+20220524_051013: <INFO> Online Version: 2.1.1
+20220524_051013: <INFO> Installed Version is the latest
+20220524_051013: <INFO> Work with Module: SqlServer
+20220524_051013: <INFO> Get Online Repo
+20220524_051014: <INFO> Compare Online and local Version
+20220524_051014: <INFO> Installed Version: 21.1.18256
+20220524_051014: <INFO> Online Version: 21.1.18256
+20220524_051014: <INFO> Installed Version is the latest
+20220524_051014: <INFO> Work with Module: Plaster
+20220524_051014: <INFO> Get Online Repo
+20220524_051015: <INFO> Compare Online and local Version
+20220524_051015: <INFO> Installed Version: 1.1.3
+20220524_051015: <INFO> Online Version: 1.1.3
+20220524_051015: <INFO> Installed Version is the latest
+20220524_051015: <INFO> Work with Module: PSReadLine
+20220524_051015: <INFO> Get Online Repo
+20220524_051016: <INFO> Compare Online and local Version
+20220524_051016: <INFO> Installed Version: 2.2.5
+20220524_051016: <INFO> Online Version: 2.2.5
+20220524_051016: <INFO> Installed Version is the latest
+20220524_051016: <INFO> Work with Module: PSScriptAnalyzer
+20220524_051016: <INFO> Get Online Repo
+20220524_051017: <INFO> Compare Online and local Version
+20220524_051017: <INFO> Installed Version: 1.20.0
+20220524_051017: <INFO> Online Version: 1.20.0
+20220524_051017: <INFO> Installed Version is the latest
+20220524_051017: <INFO> END Script
+20220524_051100: <INFO> START Script
+20220524_051100: <INFO> Get all installed Modules
+20220524_051102: <INFO> Limit Module to online Repo
+20220524_051102: <INFO> Work with Module: PackageManagement
+20220524_051102: <INFO> Get Online Repo
+20220524_051103: <INFO> Compare Online and local Version
+20220524_051103: <INFO> Installed Version: 1.4.7
+20220524_051103: <INFO> Online Version: 1.4.7
+20220524_051103: <INFO> Installed Version is the latest
+20220524_051103: <INFO> Work with Module: ImportExcel
+20220524_051103: <INFO> Get Online Repo
+20220524_051105: <INFO> Compare Online and local Version
+20220524_051105: <INFO> Installed Version: 7.5.0
+20220524_051105: <INFO> Online Version: 7.5.2
+20220524_051105: <INFO> Online Version is newer
+20220524_051105: <INFO> There is a Patch Update
+20220524_051105: <INFO> Update Majority is: Patch
+20220524_051105: <INFO> Online Version is newer and Update Majority is configured to update
+20220524_051105: <INFO> Error during PS Module Update, Error: A parameter cannot be found that matches parameter name 'Scope'. A parameter cannot be found that matches parameter name 'AcceptLicense'. The specified module 'C:\Program Files\DesiredStateConfiguration\1.0.0.0\Modules\PSDesiredStateConfiguration\PSDesiredStateConfiguration.psd1' was not loaded because no valid module file was found in any module directory.
+20220524_051105: <INFO> Work with Module: ImportExcel
+20220524_051105: <INFO> Get Online Repo
+20220524_051107: <INFO> Compare Online and local Version
+20220524_051107: <INFO> Installed Version: 7.4.1
+20220524_051107: <INFO> Online Version: 7.5.2
+20220524_051107: <INFO> Online Version is newer
+20220524_051107: <INFO> There is a Minor Update
+20220524_051107: <INFO> Work with Module: PSTeams
+20220524_051107: <INFO> Get Online Repo
+20220524_051108: <INFO> Compare Online and local Version
+20220524_051108: <INFO> Installed Version: 2.1.1
+20220524_051108: <INFO> Online Version: 2.1.1
+20220524_051108: <INFO> Installed Version is the latest
+20220524_051108: <INFO> Work with Module: SqlServer
+20220524_051108: <INFO> Get Online Repo
+20220524_051110: <INFO> Compare Online and local Version
+20220524_051110: <INFO> Installed Version: 21.1.18256
+20220524_051110: <INFO> Online Version: 21.1.18256
+20220524_051110: <INFO> Installed Version is the latest
+20220524_051110: <INFO> Work with Module: Plaster
+20220524_051110: <INFO> Get Online Repo
+20220524_051111: <INFO> Compare Online and local Version
+20220524_051111: <INFO> Installed Version: 1.1.3
+20220524_051111: <INFO> Online Version: 1.1.3
+20220524_051111: <INFO> Installed Version is the latest
+20220524_051111: <INFO> Work with Module: PSReadLine
+20220524_051111: <INFO> Get Online Repo
+20220524_051112: <INFO> Compare Online and local Version
+20220524_051112: <INFO> Installed Version: 2.2.5
+20220524_051112: <INFO> Online Version: 2.2.5
+20220524_051112: <INFO> Installed Version is the latest
+20220524_051112: <INFO> Work with Module: PSScriptAnalyzer
+20220524_051112: <INFO> Get Online Repo
+20220524_051112: <INFO> Compare Online and local Version
+20220524_051112: <INFO> Installed Version: 1.20.0
+20220524_051112: <INFO> Online Version: 1.20.0
+20220524_051112: <INFO> Installed Version is the latest
+20220524_051113: <INFO> END Script
+20220524_051145: <INFO> START Script
+20220524_051145: <INFO> Get all installed Modules
+20220524_051147: <INFO> Limit Module to online Repo
+20220524_051147: <INFO> Work with Module: PackageManagement
+20220524_051147: <INFO> Get Online Repo
+20220524_051148: <INFO> Compare Online and local Version
+20220524_051148: <INFO> Installed Version: 1.4.7
+20220524_051148: <INFO> Online Version: 1.4.7
+20220524_051148: <INFO> Installed Version is the latest
+20220524_051148: <INFO> Work with Module: ImportExcel
+20220524_051148: <INFO> Get Online Repo
+20220524_051150: <INFO> Compare Online and local Version
+20220524_051150: <INFO> Installed Version: 7.5.0
+20220524_051150: <INFO> Online Version: 7.5.2
+20220524_051150: <INFO> Online Version is newer
+20220524_051150: <INFO> There is a Patch Update
+20220524_051150: <INFO> Update Majority is: Patch
+20220524_051150: <INFO> Online Version is newer and Update Majority is configured to update
+20220524_051150: <INFO> Error during PS Module Update, Error: Cannot convert null to type "System.DateTime". A parameter cannot be found that matches parameter name 'Scope'. A parameter cannot be found that matches parameter name 'AcceptLicense'. The specified module 'C:\Program Files\DesiredStateConfiguration\1.0.0.0\Modules\PSDesiredStateConfiguration\PSDesiredStateConfiguration.psd1' was not loaded because no valid module file was found in any module directory.
+20220524_051150: <INFO> Work with Module: ImportExcel
+20220524_051150: <INFO> Get Online Repo
+20220524_051152: <INFO> Compare Online and local Version
+20220524_051152: <INFO> Installed Version: 7.4.1
+20220524_051152: <INFO> Online Version: 7.5.2
+20220524_051152: <INFO> Online Version is newer
+20220524_051152: <INFO> There is a Minor Update
+20220524_051152: <INFO> Work with Module: PSTeams
+20220524_051152: <INFO> Get Online Repo
+20220524_051152: <INFO> Compare Online and local Version
+20220524_051152: <INFO> Installed Version: 2.1.1
+20220524_051152: <INFO> Online Version: 2.1.1
+20220524_051152: <INFO> Installed Version is the latest
+20220524_051152: <INFO> Work with Module: SqlServer
+20220524_051152: <INFO> Get Online Repo
+20220524_051154: <INFO> Compare Online and local Version
+20220524_051154: <INFO> Installed Version: 21.1.18256
+20220524_051154: <INFO> Online Version: 21.1.18256
+20220524_051154: <INFO> Installed Version is the latest
+20220524_051154: <INFO> Work with Module: Plaster
+20220524_051154: <INFO> Get Online Repo
+20220524_051155: <INFO> Compare Online and local Version
+20220524_051155: <INFO> Installed Version: 1.1.3
+20220524_051155: <INFO> Online Version: 1.1.3
+20220524_051155: <INFO> Installed Version is the latest
+20220524_051155: <INFO> Work with Module: PSReadLine
+20220524_051155: <INFO> Get Online Repo
+20220524_051156: <INFO> Compare Online and local Version
+20220524_051156: <INFO> Installed Version: 2.2.5
+20220524_051156: <INFO> Online Version: 2.2.5
+20220524_051156: <INFO> Installed Version is the latest
+20220524_051156: <INFO> Work with Module: PSScriptAnalyzer
+20220524_051156: <INFO> Get Online Repo
+20220524_051157: <INFO> Compare Online and local Version
+20220524_051157: <INFO> Installed Version: 1.20.0
+20220524_051157: <INFO> Online Version: 1.20.0
+20220524_051157: <INFO> Installed Version is the latest
+20220524_051157: <INFO> END Script
+20220524_051212: <INFO> START Script
+20220524_051212: <INFO> Get all installed Modules
+20220524_051214: <INFO> Limit Module to online Repo
+20220524_051214: <INFO> Work with Module: PackageManagement
+20220524_051214: <INFO> Get Online Repo
+20220524_051215: <INFO> Compare Online and local Version
+20220524_051215: <INFO> Installed Version: 1.4.7
+20220524_051215: <INFO> Online Version: 1.4.7
+20220524_051215: <INFO> Installed Version is the latest
+20220524_051215: <INFO> Work with Module: ImportExcel
+20220524_051215: <INFO> Get Online Repo
+20220524_051217: <INFO> Compare Online and local Version
+20220524_051217: <INFO> Installed Version: 7.5.0
+20220524_051217: <INFO> Online Version: 7.5.2
+20220524_051217: <INFO> Online Version is newer
+20220524_051217: <INFO> There is a Patch Update
+20220524_051217: <INFO> Work with Module: ImportExcel
+20220524_051217: <INFO> Get Online Repo
+20220524_051219: <INFO> Compare Online and local Version
+20220524_051219: <INFO> Installed Version: 7.4.1
+20220524_051219: <INFO> Online Version: 7.5.2
+20220524_051219: <INFO> Online Version is newer
+20220524_051219: <INFO> There is a Minor Update
+20220524_051219: <INFO> Work with Module: PSTeams
+20220524_051219: <INFO> Get Online Repo
+20220524_051219: <INFO> Compare Online and local Version
+20220524_051219: <INFO> Installed Version: 2.1.1
+20220524_051219: <INFO> Online Version: 2.1.1
+20220524_051219: <INFO> Installed Version is the latest
+20220524_051219: <INFO> Work with Module: SqlServer
+20220524_051219: <INFO> Get Online Repo
+20220524_051221: <INFO> Compare Online and local Version
+20220524_051221: <INFO> Installed Version: 21.1.18256
+20220524_051221: <INFO> Online Version: 21.1.18256
+20220524_051221: <INFO> Installed Version is the latest
+20220524_051221: <INFO> Work with Module: Plaster
+20220524_051221: <INFO> Get Online Repo
+20220524_051222: <INFO> Compare Online and local Version
+20220524_051222: <INFO> Installed Version: 1.1.3
+20220524_051222: <INFO> Online Version: 1.1.3
+20220524_051222: <INFO> Installed Version is the latest
+20220524_051222: <INFO> Work with Module: PSReadLine
+20220524_051222: <INFO> Get Online Repo
+20220524_051223: <INFO> Compare Online and local Version
+20220524_051223: <INFO> Installed Version: 2.2.5
+20220524_051223: <INFO> Online Version: 2.2.5
+20220524_051223: <INFO> Installed Version is the latest
+20220524_051223: <INFO> Work with Module: PSScriptAnalyzer
+20220524_051223: <INFO> Get Online Repo
+20220524_051224: <INFO> Compare Online and local Version
+20220524_051224: <INFO> Installed Version: 1.20.0
+20220524_051224: <INFO> Online Version: 1.20.0
+20220524_051224: <INFO> Installed Version is the latest
+20220524_051224: <INFO> END Script
+20220524_051247: <INFO> START Script
+20220524_051247: <INFO> Get all installed Modules
+20220524_051249: <INFO> Limit Module to online Repo
+20220524_051249: <INFO> Work with Module: PackageManagement
+20220524_051249: <INFO> Get Online Repo
+20220524_051250: <INFO> Compare Online and local Version
+20220524_051250: <INFO> Installed Version: 1.4.7
+20220524_051250: <INFO> Online Version: 1.4.7
+20220524_051250: <INFO> Installed Version is the latest
+20220524_051250: <INFO> Work with Module: ImportExcel
+20220524_051250: <INFO> Get Online Repo
+20220524_051252: <INFO> Compare Online and local Version
+20220524_051252: <INFO> Installed Version: 7.5.0
+20220524_051252: <INFO> Online Version: 7.5.2
+20220524_051252: <INFO> Online Version is newer
+20220524_051252: <INFO> There is a Patch Update
+20220524_051252: <INFO> Work with Module: ImportExcel
+20220524_051252: <INFO> Get Online Repo
+20220524_051254: <INFO> Compare Online and local Version
+20220524_051254: <INFO> Installed Version: 7.4.1
+20220524_051254: <INFO> Online Version: 7.5.2
+20220524_051254: <INFO> Online Version is newer
+20220524_051254: <INFO> There is a Minor Update
+20220524_051254: <INFO> Update Majority is: Minor
+20220524_051254: <INFO> Online Version is newer and Update Majority is configured to update
+20220524_051254: <INFO> Error during PS Module Update, Error: Cannot convert null to type "System.DateTime". Cannot convert null to type "System.DateTime". A parameter cannot be found that matches parameter name 'Scope'. A parameter cannot be found that matches parameter name 'AcceptLicense'. The specified module 'C:\Program Files\DesiredStateConfiguration\1.0.0.0\Modules\PSDesiredStateConfiguration\PSDesiredStateConfiguration.psd1' was not loaded because no valid module file was found in any module directory.
+20220524_051254: <INFO> Work with Module: PSTeams
+20220524_051254: <INFO> Get Online Repo
+20220524_051255: <INFO> Compare Online and local Version
+20220524_051255: <INFO> Installed Version: 2.1.1
+20220524_051255: <INFO> Online Version: 2.1.1
+20220524_051255: <INFO> Installed Version is the latest
+20220524_051255: <INFO> Work with Module: SqlServer
+20220524_051255: <INFO> Get Online Repo
+20220524_051256: <INFO> Compare Online and local Version
+20220524_051256: <INFO> Installed Version: 21.1.18256
+20220524_051256: <INFO> Online Version: 21.1.18256
+20220524_051256: <INFO> Installed Version is the latest
+20220524_051256: <INFO> Work with Module: Plaster
+20220524_051256: <INFO> Get Online Repo
+20220524_051257: <INFO> Compare Online and local Version
+20220524_051257: <INFO> Installed Version: 1.1.3
+20220524_051257: <INFO> Online Version: 1.1.3
+20220524_051257: <INFO> Installed Version is the latest
+20220524_051257: <INFO> Work with Module: PSReadLine
+20220524_051257: <INFO> Get Online Repo
+20220524_051258: <INFO> Compare Online and local Version
+20220524_051258: <INFO> Installed Version: 2.2.5
+20220524_051258: <INFO> Online Version: 2.2.5
+20220524_051258: <INFO> Installed Version is the latest
+20220524_051258: <INFO> Work with Module: PSScriptAnalyzer
+20220524_051258: <INFO> Get Online Repo
+20220524_051259: <INFO> Compare Online and local Version
+20220524_051259: <INFO> Installed Version: 1.20.0
+20220524_051259: <INFO> Online Version: 1.20.0
+20220524_051259: <INFO> Installed Version is the latest
+20220524_051259: <INFO> END Script

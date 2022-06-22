@@ -1,11 +1,16 @@
+
+# v1.0 (24.05.2022) - Init Release
+
+
+
 #region Parameters
-[string]$LogPath = "C:\Users\MichaelSeidlau2mator\OneDrive - Seidl Michael\2-au2mator\1 - TECHGUY\GitHub\PowerShell-Tools" #Path to store the Lofgile, only local or Hybrid
+[string]$LogPath = "C:\Users\seimi\OneDrive - Seidl Michael\2-au2mator\1 - TECHGUY\GitHub\PowerShell-Tools" #Path to store the Lofgile, only local or Hybrid
 [string]$LogfileName = "UpdatePSModule" #FileName of the Logfile, only local or Hybrid
 [int]$DeleteAfterDays = 10 #Time Period in Days when older Files will be deleted, only local or Hybrid
 
 
 $Module = "ALL" #Module Name or ALL
-$AutoUpdateLevel = "Patch" #Patch, Minor, Major
+$AutoUpdateLevel = "Minor" #Patch, Minor, Major
 
 #endregion Parameters
 
@@ -119,7 +124,7 @@ foreach ($G in $GalleryModules) {
         Write-TechguyLog -Type INFO -Text "Update Majority is: $UpdateMajority"
         try {
             Write-TechguyLog -Type INFO -Text "Online Version is newer and Update Majority is configured to update"
-            Update-Module -Name $g.Name -Force -AcceptLicense -RequiredVersion $o.Version -Scope AllUsers
+            Update-Module -Name $g.Name -Force -RequiredVersion $o.Version
             $UpdateResult = "OK"
         }
         catch {
