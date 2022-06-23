@@ -1,6 +1,3 @@
-
-
-
 $clientID = "your-ClientID"
 $Clientsecret = "your-Secret"
 $tenantID = "your-TenantID"
